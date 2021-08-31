@@ -27,8 +27,8 @@ import com.google.api.services.customsearch.model.Result;
 import com.google.api.services.customsearch.model.Search;
 public class GoogleWebProtocol extends WebProtocol {
 	//https://www.googleapis.com/customsearch/v1?key=INSERT_YOUR_API_KEY&cx=017576662512468239146:omuauf_lfve&q=lectures
-	private String ApiKey = "AIzaSyCkEmwQs7I2cuFTJJB5A9R8ZSGmrKcYCfA";
-	private String SiteKey = "013293506080937126983:79bsvpbn1to";
+	private String ApiKey = "XXX-YOUR-API-KEY-HERE";
+	private String SiteKey = "XXX-YOUR-SITE-KEY-HERE";
 	GoogleWebProtocol(){
 		
 	}
